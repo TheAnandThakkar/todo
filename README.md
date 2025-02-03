@@ -106,3 +106,7 @@ Ensure you have the following installed:
 
 - Implement search, sorting, and filtering
 - Improve error handling and validation
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
